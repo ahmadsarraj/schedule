@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.table{
+    position:relative;
+    top:100px;
+    left:190px;
+}
+.title{
+    text-align: left;
+    font-size: 40px;
+    color: gray;
+    margin-left: 8px;
+    }
+    
+    .class{
+    text-align: left;
+    font-size: 30px;
+    color: gray;
+    margin-left: 8px;;
+    margin-top: -30px;
+    }
+    
+    .batikha{
+        position: static;
+        top: 50px;
+       
+    }
+    .slide{
+        position:static;
+        top:10px;
+        margin-bottom: 10px;
+    }
